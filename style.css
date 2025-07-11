@@ -1,0 +1,182 @@
+
+
+
+.header {
+  background-color: #0288d1;
+  width: 70vw;
+  justify-self: center;
+  text-align: center;
+  padding: 20px;
+  height: 200px;
+}
+
+
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+header h1 {
+    color: white;
+}
+.image {
+  display: flex;
+  justify-content: left;
+}
+
+
+.bloc1 ul {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+   margin: 100px 0px 5px;
+    
+    }
+
+ ul {
+  list-style-type : none;
+  
+  }
+
+  a {
+    text-decoration: none;
+}
+
+
+
+.bloc1 a {
+    color: white;
+}
+
+.main {
+    padding: 20px;
+    background-color: beige;
+}
+.boxContainer {
+  display: flex;
+  flex-direction: column;
+  width: 70vw;
+  justify-self: center;
+  padding: 20px;
+  background-color: #f7f8fa;
+}
+
+.flex1 {
+ display: flex;
+ justify-content: space-between;
+ margin: 30px;
+ padding: 20px;
+ background-color: white;
+ border-radius: 1cm;
+}
+
+
+
+.photo img {
+    border-radius: 10%;
+}
+    
+
+.texte1 {
+    flex-direction: column;
+    text-align: left;
+    
+}
+
+.flex2 {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+     margin: 30px;
+ padding: 20px;
+ background-color: white;
+ border-radius: 1cm;
+}
+
+
+.photo2 img {
+    border-radius: 10%;
+    justify-content: right;
+    
+}
+
+.texte2 {
+text-align: left;
+}
+
+.flex3 {
+    display: flex;
+    justify-content: space-between;
+     margin: 30px;
+ padding: 20px;
+ background-color: white;
+ border-radius: 1cm;
+}
+}
+
+.photo3 img  {
+    border-radius: 10%;
+}
+
+.texte3 {
+    text-align: right;
+}
+
+.flex4 {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+     margin: 30px;
+ padding: 20px;
+ background-color: white;
+ border-radius: 1cm;
+}
+
+
+.photo4 img {
+    border-radius: 10%;
+}
+
+.texte4 {
+}
+
+.flex5 {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+     margin: 30px;
+ padding: 20px;
+ background-color: white;
+ border-radius: 1cm;
+}
+
+
+.photo5 img {
+  border-radius: 10%;  ;
+}
+
+.texte5 {
+    text-align: right;
+}
+
+.footer {
+  width: 70vw;
+  justify-self: center;
+  background-color: black;
+  color: antiquewhite;
+  text-align: center;
+    padding: 20px;
+  height: 200px;
+}
+
+.n-footer {
+}
+
+.n-footer2 ul {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+      margin: 100px 0px 5px;
+    
+}
